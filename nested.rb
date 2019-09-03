@@ -89,7 +89,7 @@ yukihiro_matsumoto = {
      }
     
 programmer_hash.merge!(yukihiro_matsumoto)
-
+programmer_hash
 end
 
 def changing_alan
