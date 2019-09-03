@@ -136,5 +136,5 @@ def adding_to_dennis
         }
      }
   programmer_hash[:dennis_ritchie][:languages].unshift("Assembly")
-  programmer_hash[:dennis_ritchie][:languages]
+  p programmer_hash[:dennis_ritchie][:languages]
 end
