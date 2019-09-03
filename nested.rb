@@ -88,7 +88,7 @@ yukihiro_matsumoto = {
      :languages => ["LISP", "C"]
      }
     
-    
+programmer_hash.merge()    
 end
 
 def changing_alan
